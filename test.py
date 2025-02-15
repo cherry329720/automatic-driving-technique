@@ -7,4 +7,4 @@ def fibonacci(n):
         a, b = b, a + b
     return sequence
 
-print("斐波那契数列前10项:", fibonacci(10))
+print("斐波那契数列前20项:", fibonacci(20))
